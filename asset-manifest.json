@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peerxp_assignment/static/css/main.c9dedacb.css",
+    "main.js": "/peerxp_assignment/static/js/main.925f8329.js",
+    "static/js/787.1d080853.chunk.js": "/peerxp_assignment/static/js/787.1d080853.chunk.js",
+    "index.html": "/peerxp_assignment/index.html",
+    "main.c9dedacb.css.map": "/peerxp_assignment/static/css/main.c9dedacb.css.map",
+    "main.925f8329.js.map": "/peerxp_assignment/static/js/main.925f8329.js.map",
+    "787.1d080853.chunk.js.map": "/peerxp_assignment/static/js/787.1d080853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9dedacb.css",
+    "static/js/main.925f8329.js"
+  ]
+}
