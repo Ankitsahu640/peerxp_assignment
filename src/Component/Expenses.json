@@ -1,0 +1,49 @@
+{
+    "Expenses":[
+        {
+            "name":"Purchased Book",
+            "category":"Books",
+            "date":"27 Feburuary, 2023",
+            "amount":"INR 500",
+            "updated":"just now",
+            "created":"me",
+            "discription":"any discription of expense you want to add"
+        },
+        {
+            "name":"Purchased Book",
+            "category":"Books",
+            "date":"27 Feburuary, 2023",
+            "amount":"INR 500",
+            "updated":"just now",
+            "created":"me",
+            "discription":"any discription of expense you want to add"
+        },
+        {
+            "name":"Purchased Book",
+            "category":"Books",
+            "date":"27 Feburuary, 2023",
+            "amount":"INR 500",
+            "updated":"just now",
+            "created":"me",
+            "discription":"any discription of expense you want to add"
+        },
+        {
+            "name":"Purchased Book",
+            "category":"Books",
+            "date":"27 Feburuary, 2023",
+            "amount":"INR 500",
+            "updated":"just now",
+            "created":"me",
+            "discription":"any discription of expense you want to add"
+        },
+        {
+            "name":"Purchased Book",
+            "category":"Books",
+            "date":"27 Feburuary, 2023",
+            "amount":"INR 500",
+            "updated":"just now",
+            "created":"me",
+            "discription":"any discription of expense you want to add"
+        }
+    ]
+}
